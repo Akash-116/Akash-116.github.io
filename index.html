@@ -16,7 +16,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" type="text/css" href="./styles.css" />
+    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
@@ -76,19 +76,46 @@
 
         <!-- <div class="row text-center"> -->
         <div class="col-sm-6">
-            <img src="./pics/me.jpg" class="img-responsive own-img-rounded margin" style="display:inline"
-                alt="Akash Reddy Gillella" width="250" height="350">
+            <!-- <img src="./pics/me.jpg" class="img-responsive own-img-rounded margin" style="display:inline"
+                alt="Akash Reddy Gillella" width="250" height="350"> -->
+
+            <!-- Trying to add spotlight image viewer -->
+            <div class="spotlight-group" data-animation="slide" data-theme="white" data-infinite data-reset>
+
+                <a class="spotlight" href="./pics/me.jpg">
+                    <!-- <img src="./pics/me.jpg"> -->
+                    <img src="./pics/me.jpg" class="img-responsive own-img-rounded margin" style="display:inline"
+                        alt="Akash Reddy Gillella" width="250" height="350">
+                </a>
+                <a class="spotlight" href="./pics/me.jpg">
+                    <!-- <img src="./pics/me.jpg"> -->
+                    <img src="./pics/me.jpg" class="img-responsive own-img-rounded margin" style="display:inline"
+                        alt="Akash Reddy Gillella" width="250" height="350">
+                </a>
+                <a class="spotlight" href="./pics/me.jpg">
+                    <!-- <img src="./pics/me.jpg"> -->
+                    <img src="./pics/me.jpg" class="img-responsive own-img-rounded margin" style="display:inline"
+                        alt="Akash Reddy Gillella" width="250" height="350">
+                </a>
+            </div>
+            <a class="spotlight" href="./pics/me.jpg">
+                <!-- <img src="./pics/me.jpg"> -->
+                <img src="./pics/me.jpg" class="img-responsive own-img-rounded margin" style="display:inline"
+                    alt="Akash Reddy Gillella" width="250" height="350">
+            </a>
         </div>
 
         <div class="col-sm-6 text-center">
             <p class="text-md-left"> <br> <br>
-            <h3>Hey there. I'm Akash Reddy</h3> <br> A Computer Science 3rd yr. UG here
+            <h3>Hey there. I'm Akash Reddy</h3> <br> A Computer Science 4th yr. UG here
             at <a target="_blank" href="https://www.iitb.ac.in/"
                 style="color: rgb(255, 255, 255); text-decoration: underline; ">IIT
                 Bombay
             </a>
             <br><br> My roll number would be 190050038
             <br><br> I hail from Hyderabad, Telangana
+            <!-- <br><br> I've recently interned at Quadeye as a Systems Enginner for a bit. Right now, I'm looking for
+            oppurtunities for a Quant Analyst role. -->
             <br><br>
             </p>
         </div>
@@ -193,7 +220,9 @@
 
 
 
-    <script src="./code.js"></script>
+    <!-- <script src="./jscode/spotlight-master/dist/spotlight.bundle.js"></script> -->
+    <script src="./jscode/spotlight.bundle.js"></script>
+    <script src="./jscode/code.js"></script>
 </body>
 
 </html>
