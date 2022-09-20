@@ -1,0 +1,305 @@
+1. inductive reasoning - reasoning based on observations, or reaching conclusions from evidence 
+
+    conclusions we reach are probably, but not definitely, true 
+
+    We are using inductive reasoning constantly, often without even realizing it. 
+
+    It provides the mechanism for using past experience to guide present behavior. 
+
+2. Factors contributing to strength of the argument 
+
+    Representativeness of observations - How well do the observations about a particular category represent all of the members of that category 
+
+    No.of Observations 
+
+    Quality of the evidence - Stronger evidence results in stronger conclusions. 
+
+3. Illusory correlations occur when a correlation between two events appears to exist, but in reality there is no correlation or it is much weaker than it is assumed to be. 
+
+4. heuristics — “rules of thumb” that are likely to provide the correct answer to a problem but are not foolproof 
+
+    availability heuristics - is related to how often *we* expect events to occur 
+
+        it doesn’t always lead to errors 
+
+        Stereotype — an oversimplified generalization about a group or class of people that often focuses on the negative. 
+
+            this phenomenon is related to availability heuristic. - Chapman & Chapman, 1969; Hamilton, 1981 
+
+    Representativeness heuristic - people often make judgments based on how much one event resembles another event. 
+
+        Base rate - is the relative proportion of different classes in the population. 
+
+        experiment of judging jobs - Amos Tversky and Daniel Kahneman (1974) 
+
+ 
+
+ 
+
+        when any descriptive information is available, people disregard the base rate information, and this can potentially cause errors in reasoning. 
+
+        however, that the right kind of descriptive information can increase the accuracy of a judgment. 
+
+ 
+
+ 
+
+        conjunction rule - which states that the probability of a conjunction of two events (A and B) cannot be higher than the probability of the single constituents (A alone or B alone) 
+
+ 
+
+ 
+
+        but people ignored the above rule and picked the statment according to Representative heuristic. - Tversky and Kahneman (1983) 
+
+        People tend to violate it even if they understand it 
+
+5. People also make errors in reasoning by ignoring the importance of the size of the sample on which observations are based 
+
+    experiment on guessing birth gender possibility - Tversky & Kahneman, 1974 
+
+    law of large numbers 
+
+    samples of small numbers of individuals will be less representative of the population. 
+
+    People often assume that representativeness holds for small samples, and this results in errors in reasoning  
+
+6. Another influence on judgment is the knowledge, attitudes, and 
+
+preconceptions that people bring to the situation.  - Charles Lord and coworkers (1979) 
+
+ 
+
+ 
+
+7. Confirmation bias—our beliefs are often based on paying attention 
+
+to the information that upholds them while at the same time 
+
+tending to ignore the information that challenges them 
+
+8. Myside Bias - The tendency for people to generate and evaluate evidence and test their hypotheses in a way that is biased toward their own opinions and attitudes - McKenzie, 2004 
+
+    It is a type of Confirmation bias 
+
+9. Cognitive Bias - involves favoring information that confirms your previously existing beliefs or biases. 
+
+10. Expected utility theory - assumes that people are basically rational. 
+
+    if people have all of the relevant information, they will make a decision that results in the maximum expected utility.(Manktelow, 1999; Reber, 1995). 
+
+    utility - refers to outcomes that achieve a person’s goals  
+
+    Economists who studied decision making thought about utility in terms of monetary value 
+
+    utility approach specifies procedures that make it possible to determine which choice would result in the highest monetary value. 
+
+ 
+
+ 
+
+    People regularly behave in ways that ignore the optimum way of responding based on probabilities.  
+
+    EX: Casino,  
+
+        experiment by Veronica Denes-Raj and Seymour Epstein (1994) 
+
+        Travel by car or plane 
+
+        Deal or no deal show - Thierry Post and coworkers (2008)  - showed that contestants’ choices are determined not just by the amounts of money led in the briefcases but by what has happened leading up to their decision. 
+
+            when they are doing good - more likely to accept the deal. 
+
+            Doing bad - more likely to take risks. 
+
+                reason maybe that they want to avoid -ve feeling of being a loser 
+
+    therefore psychologists conclude that people won't behave as proposed by the above theory. 
+
+ 
+
+ 
+
+    Gigerenzer, 2004 -  calculated that the number of Americans who lost their lives on the road by avoiding the risk of flying was higher than the total number of passengers killed on the four hijacked flights 
+
+11. emotions can play a role in decision making. 
+
+    proof - people with damage to an area of their prefrontal cortex, who suffer from flattened emotions and an inability to respond to emotional events, have impaired decision making. 
+
+12. Personal qualities unrelated to brain damage have also been linked to decision making 
+
+13. Risk avoidance - Anxious people tend to avoid making decisions that could potentially lead to large negative consequences - (Maner & Schmidt, 2006; Paulus & Yu, 2012 
+
+    Risk aversion — the tendency to avoid taking risks. 
+
+        It is the tendency to believe that a particular loss will have a greater impact than a gain of the same size (Tversky & Kahneman, 1991). 
+
+14. optimistic people are more likely to ignore negative information and focus on positive information, causing them to base their decisions on incomplete information. 
+
+    => can lead to poor decision making - Izuma & Adolphs, 2011 
+
+15. Expected emotions - emotions that people predict they will feel for a particular outcome. 
+
+16. Deborah Kermer and coworkers (2006) - compared people’s expected emotions with their actual emotions - showed that people can inaccurately predict their emotions.  
+
+    EX: Exp of coin flip - win $5 or lose $3 , u have $5 
+
+ 
+
+ 
+
+    the actual effect of losing was substantially less than predicted, but the positive effect of winning was only a little less than predicted. 
+
+    after their gamble, the positive effect of winning and negative effect of losing turned out to be about equal. 
+
+17. One reason people overestimate what their -ve feelings will be is that they don't consider the various coping mechanisms they may use. 
+
+    the inability to correctly predict the emotional outcome of a decision can lead to inefficient decision making 
+
+18. Incidental emotions - emotions that are not caused by having to make a decision. 
+
+    can be related to a *person’s general disposition* - something that happened earlier in the day, or the general environment such as background music being played in a game show or the yells of the game show audience. 
+
+ 
+
+ 
+
+    Uri Simonsohn  
+
+        2007 - analysis of university admissions decisions in which he found that applicants’ academic attributes were more heavily weighted on cloudy days than on sunny days (nonacademic attributes won out on sunny days). 
+
+        2009 - prospective students visiting an academically highly rated university were more likely to enroll if they had visited the campus on a cloudy day 
+
+    Jennifer Lerner and coworkers (2004) 
+
+        emotions can affect the economic decisions of establishing selling and buying prices 
+
+        disgust is associated with a need to expel things - buy and sell low 
+
+        sad emotions are associated with a need for change. - buy low but sell high 
+
+    Judge Jerome Frank (1930) - Justice is what the judge had for breakfast. 
+
+        Shai Danziger and coworkers (2011) - taking a meal increased favorable responses. else before taking meal it was stricter..? 
+
+19. opt-in - procedure because it requires the person to take an active step 
+
+opt-out - procedure, in which everyone 
+
+is a potential organ donor unless he or she requests not to be 
+
+    EX: Organ donation - Johnson & Goldstein, 2003 
+
+        it showed status quo bias  
+
+Status quo bias — the tendency to do nothing when faced with making a decision. 
+
+    People tend to stick to default options. 
+
+20. framing effect — decisions are influenced by how the choices are stated, or framed 
+
+    EX: whether to release or not a convict - Paul Slovic and coworkers (2000) 
+
+ 
+
+ 
+
+21. neuroeconomics, combines research from the fields of psychology, neuroscience, and economics to study how brain activation is related to decisions that involve potential gains or losses - Lee, 2006 
+
+    This research shows that decisions are often influenced by emotions, and that these emotions are associated with activity in specific areas of the brain. 
+
+ 
+
+ 
+
+    Alan Sanfey and coworkers (2003) - brain activity was measured as they played the *ultimatum game* - involves two players, one designated as the *proposer* and the other as the *responder*. proposer splits money responder says whether ok  or not but if not ok they get none. 
+
+    when subjects received exactly the same offers from their computer partner, more accepted “unfair” proposals. 
+
+    Anterior insula - an area located deep within the brain between the parietal and temporal lobes, 
+
+        was activated about three times more strongly when responders rejected an offer than when they accepted it.  
+
+        it is in area that deals with -ve states of emotion. 
+
+    prefrontal cortex (PFC) had same amount of activation for both cases. 
+
+    i.e., the emotional goal of resenting unfairness is handled by the anterior insula, and the cognitive goal of accumulating money is handled by the PFC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+22. Deductive reasoning - we determine whether a conclusion logically follows from statements called *premises*. 
+
+    basic form of deductive reasoning called the - syllogism. 
+
+        categorical syllogisms - in which the premises and conclusion are statements that begin with All, No, or Some 
+
+        EX: 
+
+            All A are B 
+
+            All B are C 
+
+            => All A are C 
+
+ 
+
+ 
+
+            A syllogism is *valid* when the form of the syllogism indicates that its conclusion follows logically from its two premises. - it doesn't mean it is true. 
+
+            ||y true doesn't imply valid. 
+
+ 
+
+ 
+
+        Belief bias — the tendency to think a syllogism is valid if its conclusion is believable. 
+
+ 
+
+ 
+
+        Mental model - is a specific situation represented in a person’s mind that can be used to help determine the validity of syllogisms in deductive reasoning. - Phillip Johnson-Laird, 1999. 
+
+            The basic principle behind mental models is that people create a model, or representation of the situation, for a reasoning problem.  
+
+            They generate a tentative conclusion based on this model and then look for exceptions that might falsify the model. If they do find an exception, they modify the mode 
+
+ 
+
+ 
+
+        Conditional syllogisms -  have two premises and a conclusion like categorical syllogisms, but the first premise has the form “If ... then.” 
+
+            p- statement, q- reasoning 
+
+            p therefore q - valid - Modus ponens 
+
+            not q therefore not p - valid - Modus tollens 
+
+            q therefore p - not valid  
+
+            not p therefore not q - not valid 
+
+         
+
+        people are often better at judging the validity of syllogisms when real-world examples are substituted for abstract symbols. 
+
+            EX: wason four card problem - 1966 
+
+        Falsification principle - To test a rule, it is necessary to look for situations that would falsify the rule. 
+
+        Permission schema - which states that if a person satisfies a specific condition, then he or she gets to carry out an action 
+
+ 

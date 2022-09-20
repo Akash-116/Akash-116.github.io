@@ -1,0 +1,91 @@
+L8:
+
+
+Structural Models 
+	> represent structures
+Process models
+	> model the processes
+
+Long term memory
+	Episodic - life event
+	Semantic - facts
+	Procedural - Practise
+
+Cognitive neuroscience
+	> Study of physiological basis of cognition.
+
+Lets study Physiology!
+
+Neurons:
+	
+	Dendrite : recieve signal from other neurons.
+	Axon	 : Send signal to other neurons.
+	Schwan cell: keeps the nerve fiber alive, and create myliene sheathe
+	Myline sheet : insulator in conduction
+
+Synapse : structures are b/w one axon and another dendron. Permits neuron to pas electricyt from one to another.
+
+Action Potential : The change in potential that occurs b/w inside and outside of a nerve or muscle fiber, when it is stimulated. Serving to transmit nerve signals.
+
+> Stimulation should reach a threshold. -55mV. (To open Na gates).Otherwise failed initiaiton.
+> Refractory period after stimulation.
+
+
+L9:
+
+> Refractory period after stimulation.
+
+> 3 Na+ ions out, for every 2 K+ ions inside. Hence potential difference.
+> Potassium channels are slow to open and close, causing the potential differences. if not, they'd be settled instantaneously.
+
+Feature Detectors in retina:
+	> area of retina, specific stimulus response - orientation, movement, length.
+	> Oriented bar, oriented moving bar, small bar moving.
+	> Hubel and Wiesel, Nobel Prize. Meh!
+
+> Temporal lobe -> Fusiform area for face images.
+	> WHAT pathway for perception
+
+- hiearchial processing.
+
+> Cognitive Neuropsychology  : 
+	study of patients with brain damagae (due to stroke, cutoff blood supply).
+
+
+1. Paul Broca : 
+	> Patient named :"Tan". Able to speak only "Tan"
+	> Left frontal lobe area damaged. 
+	> Broca's area. Associated with speech.
+
+2.
+	> Patient didn't understand langauge. But spoke nicely but incoherent.
+	> Temporal Lobe damage. Wernicke's area.
+	> Temporal Lobe associated with WHAT pathway.
+	> Temporal Lobe is inside area of brain. Inside and bottom.
+
+3.
+	> Occipital lobe damage. Vision gone.
+	> Left lobe damgaed, right eye vision gone.
+
+4. Prosopagnosia
+
+	> Can't recognize faces. Damage to lower temproal lobe. Fusiform area...
+
+
+fMRI:
+	> Active brain regin has more blood flow.
+
+	BOLD : blood oxygen level dependent
+	> MRI works cause, Fe+2 in blood aligns with marnetic field.
+	> Deoxygenated Fe+2 even more so!
+
+	> Use to detect which region of brain localized for which task - stimulus.
+
+
+
+
+
+
+
+
+

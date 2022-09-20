@@ -1,0 +1,81 @@
+L16:
+
+Attention:
+	
+	> Selective Attention
+	> Distraction
+	> divided attention
+	> attentional capture
+
+Broadbent's filter model of attention:
+	Bottleneck model - since, the filter is bottleneck
+	Early selection model - since, at initial stage the selection is done.
+
+	* the sensory memory holds ALL stimulii for a frac of a second. 
+	* fitler filters the stimulii based on physical characteristics - voice, accent...
+	* The detector then understands the meaning.
+
+	* This output sent to short term memory, which may transfer to long term memory.
+
+
+Attenuation Model, Leaky filter:
+	
+	Instead of a filter, a attenuator, based on physical characteristics and MEANING. And then a dictionary.
+
+	> Each word in dictionary has a threshold to acitvate.
+	> high threshold to senseless words. like "rutabaga"
+
+
+Late selection model:
+	 most of incoming words are processed and discarded later on	
+
+Concept of perceptual load and processing capacity:
+
+	> When less processing capacity demanded, perceptual load is noticed
+	> When high processing capacity demamded, perceptual load is ignored. Sure!
+	> The gorilla in the video.
+
+
+Stroop effecet:
+ 	Reading words is sooo practised, its hard not to.
+
+Overt attention:
+	Shift attention by eye movement
+
+Covert Attention:
+	Shift attention by no eye movement 
+
+saccadic eye movement: rapid jerky fixations. Sasuke vs  B!
+
+we also have top-down(bocz of our past knowledge - traffic light searching) and bottom-up attention(bocz of the specific stimulii - a tree in a desert) patterns
+
+L17:
+
+If we have pre cues to a location or an object, we can respond faster on stimulii at that place
+
+> Inattentional Blindness... visible but not registetred cause of not attending to it
+
+
+
+Feature Integration Theory:
+	> How an objects individual features become bound together?
+
+Object -> Preattentive Stage -> Focused Attentive Stage -> Perception
+		(Analyze into Features)  (Combine the features)
+
+
+Illusonary Conjunctions: Mix up features of different objects.
+
+Shown : red traingle, green ball
+We think: red circle, green triangle
+
+
+Attention to Face : FFA fusiform area in Temporal Lobe. "What"! temporal lobe
+
+Attention to house : PPA in temproal lobe. "What"! is answered in temporal lobe
+
+
+
+
+
+

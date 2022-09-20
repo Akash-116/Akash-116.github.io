@@ -1,0 +1,154 @@
+L5:
+
+Study of human bhevaior began in BCs
+
+1. Aristotle:
+	> 350BC
+	> importance on empirical observations
+
+2. Rene decartes
+	> 1600s
+	>"I think, therefore I am"
+	> Mind body dualism. (mind and matter are fundamentally different kind of substances)
+
+Early studies to study mind:
+
+1. Franciscus Donders
+"How long does it take to make a decison"
+	1. Press key when seeing a light
+	2. Press j on left light, k on right light.
+	> difference is time for decision
+
+2. Wilhelm Wundt - Structuralism
+	>**** Father of psychology
+	> Structuralism
+	> Combined basic sensations to create experinece.
+	> Red fruit - apple
+	> Analytical Introspection - Asked the participants what their thought process was.
+
+3. William James  - Functionalism
+	> Observed his own mind operation
+	> Functionalism
+	> First harvard course on psychology
+	> Attention - not everything enters our experinece
+	> Filter Detector model
+
+---Abandoning Study of Mind and focus on external behaviour:
+
+	> Conditioning
+
+
+4. Behaviourism - John B. Watson - conditionng
+	> John B. Watson
+	> Abandon mind. Focus on observable behaviour.
+	> What relation b/w stimulii and BEHAVOiOUR. Not mind.
+
+	> Classical Conditioning - Little Albert Expt. 
+	> Pair rats with loud bang. Child started fearing Rats.
+
+	> Pavlov Dogs
+
+5. Operant Conditioning - B F Skinner
+	
+	> Another tool for studying stimulus and response - Operant conditioning.
+	> Rewards to increase good Behaviour, Punishments to decrease a behaviour.
+
+	Classic Conditioning - Just repeat the instances
+	Operant Conditioning - Rewards and punishments to + - beahaviour
+
+
+L6:
+
+
+1. Cognitive Behaviousrim
+	> Both thinking and conditioning to explain behaviour
+	> You visit a free streaming site
+	> Behaviourists : You visit the website, because u are rewqrded from watching it
+	> Cognitive behaviourist : Also because they are free!
+
+2. Gestalt Psychology - Max Wertheimer:
+	> Whole is greater than sum of parts.
+	> Gestalt not scientist name. It means "put together"
+
+3. PsycoAnalytic Psychology: - Sigmund Freud
+	> Many unconscious thioughts are repressed.
+	> Nothing is accident. If we search engouhg, every action/thought has reason
+	> We are ruled by unconscious forces.
+
+4. Humanistic Psychology
+	> maslow. Rejected freud idea of being controlled by unconscious forces.
+	> Also uncomfortable with behavioursts view on conditioning.
+	> Didnt accpet the determinism in these view. The idea that our actions are out of our control. LAMEsies
+
+5. Edward C. Tolman
+	> Rat in maze. Runs left or right, intelligent
+	> Used behavrious to infer mental processes
+
+
+Congnitive revolution - Again Study of Mind:
+
+	> child say many sentencees which are not rewarded (opposite to operant conditioning)
+	> Use behaviours to study working of mind.
+
+	> Shift in psychology from bhehaviourist to study of mind.
+	> Mind processes the stimulus (like a computer!)
+
+	input -> processing -> response
+
+	> Dichotic Listening Task (audio in 2 ears)
+	> Listen the unattedned sound, but unaware of contents
+	> Implies we have a kind of filter into our mind.
+
+
+	> John McCarthy, said to build a intelligent machine.
+
+	> George Miller : No. of items processes by human = 7 +- 2 == 5~9 items
+
+
+
+
+L7:
+
+Cognitive Psychology:
+ > Branch that focuses on thw way people process information
+ > What in our minds that links stimulii and resopnse
+
+ Modern Research :
+	 1. How research goes from one Q to another - Following a trail
+	 2. The models of mind.
+
+The mind creates and controls mental functions such as 
+	Perception
+	Attention
+	Memory
+	Rmotion
+	Language
+	Thinking
+	Reasoning
+	Deciding
+
+The questions of how the mind achieves what it does is what Cognitive Psychology answers
+
+
+Ebbinghaus's Memory experiment:
+	<slide 52, L5-7>
+	> Ebinghaus's saving curves
+	> Learn senseless syllabes once. Give time gap. Learn again. 
+	> Time difference is the saving (amount remembered)
+	> Falls rapidly till 2 days. and levels out. 
+
+Note how we are using behaviour measures to study the mind properties
+
+
+
+When we are under pressure, we use more working memory capacity
+
+
+Chocking experiment:
+
+	> High Working Memory people are more suseptible to Chocking
+	> Low working memory people are doing better in chocking condition
+
+	> Because LWM guys use shortcuts and HWM ppl use genuine routes (more working memory needed).
+
+

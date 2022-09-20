@@ -1,0 +1,307 @@
+1. Memory-process involved in retaining, retrieving, and using information about stimuli, images, events, ideas, and skills after the original information is no longer present.
+
+3 types:
+    a.Sensory memory - initial stage that holds all incoming information for seconds or fractions of a second.
+        i) visual-24 frames per second.
+            the information decays withuin less than a sec.
+            called iconic memory or visual icon.
+        ii) sound-lasts a few seconds-Darwin,1972
+            called echoic memory.
+
+    b.Short-term/working memory( Baddeley,2009) - holds five to seven items - for about 15 to 20 seconds(Zhang & Luck, 2009).
+        i) Proactive interference - when information that was learned previously interferes with learning new information. - kepel and underwood
+        ii) Retroactive interference - when new learning interferes with remembering old learning
+
+        iii) Change detection: More recent measures of STM capacity have set the limit at about four items (Cowan, 2001).
+        iv) Chunking - small units (like words) can be combined into larger meaningful units, like phrases,etc. - Miller.
+        v) Chunk - has been defined as a collec-on of elements that are strongly associated with one another but are weakly associated with elements in other chunks (Cowan, 2001; Gobet et al., 2001).
+        vi) Alvarez and Cavanagh concluded that the greater the amount of information in an image, the fewer items that can be held in visual short-term memory.
+        vii) working memory - a limited-capacity system for temporary storage and manipulation of information for complex tasks such as comprehension, learning, and reasoning. - Baddeley and Hitch
+        it is dynamic
+        viii) 3 components:
+            Phonological loop: 
+                Phonological store - which has a limited capacity and holds information for only a few seconds.
+                Articulatory rehearsal process - which is responsible for rehearsal that can keep items in the phonological store from decaying.
+                Phonological Similarity effect - is the confusion of letters/words/digits that sound similar.
+                Word length effect - the word length effect occurs when memory for lists of words is better for short words than for long words. -Baddeley,1984
+                articulatory suppression - which reduces memory because speaking interferes with rehearsal. -Baddeley,Murray
+
+
+            Visuospatial sketch pad: holds visual and spa.al information. EX: When you form a picture in your mind or do tasks like solving a puzzle or finding your way around campus.
+                reaction time time increased with angular difference. - for checking if 2 images are equal.
+
+            Central executive: pulls informa.on from long-term memory and coordinates the activity of the phonological loop and visuospatial sketch pad by focusing on specific parts of a task and deciding how to divide attention between different tasks.- Baddeley
+                it is described as a attention controller:
+                    how attention is focused on a specific task
+                    how it is divided between two tasks
+                    how it is switched between tasks
+                Vogel and coworkers concluded that some people’s central executives are better at allocating attention than others’. The reason this is important is that other experiments have shown that people with more efficient working memories are more likely to perform well on tests of reading and reasoning ability and on tests designed to measure intelligence.
+
+            Episodic Buffer: can store information (thereby providing extra capacity) and is connected to LTM (thereby making interchange between working memory and LTM possible)
+            Added later by Baddeley after the first 3.
+
+        ix)prefrontal (PF) cortex is important for holding information for brief periods of time.
+        x) multitasking increases no. of errors.
+
+
+    c.Long-term memory (procedural and semantic) - can hold a large amount of information for years or even decades.
+        fades with passage of time, as other experiences accumulate.
+    has:
+        explicit(conscious):
+            episodic memory
+            semantic memory
+        implicit(not conscious):
+            procedural memory
+            priming
+            conditioning
+2. Control processes. EX: rehearsal for short term memory.
+3. Encoding - The process of storing the Data in long-term memory
+4. retrieving - remembering information that is stored in long-term memory.
+5. Sperling’s experiment: measuring the capacity and duration of the sensory store.
+6. Memory is better for words presented at the beginning of the list (primacy effect - due to time available to transfer to LTM) and at the end (recency effect - Due to Memory lingering in STM, so if we wait this effect recedes - Glanzerc Cunitz).
+7. Coding - refers to the form in which s+muli are represented:
+    visual:
+        STM if you remembered the pattern by represen6ng it visually in your mind.
+        LTM if when you visualize a person or place from the past.
+    auditory:
+        STM : Phonological Similarity effect
+        LTM : EX:playing a song in our head or guessing next song in a playlist from the song currently palying.
+    semantic:
+        STM: Wickens experiment - grouping of objects effects percent of data recalled
+        LTM: Sachs experiment - Sachs had subjects listen to a tape recording of a passage and then measured their **recognition memory** to determine whether they remembered the exact wording of sentences in the passage or just the general meaning of the passage.
+        answer was the latter.
+
+8. STM and LTM are separated in the brain, but also some evidence for overlap
+    Neuropsychological studies provided strong evidence for separation.
+        1953- Henry Molaison(H.M) - had hippocampus removed due to epileptic seizures - Corkin,2002; Scoville&Miller,1957
+        Clive Wearing - due to encephalitis lost parts of medial temporal lobe which includes hippocampus, amygdala. - Suddendorf, 2009; D. Wearing, 2005.
+        They showed the role of the hippocampus in forming new long-term memories.
+        and also that LTM and STM are separated by brain regions.
+
+        Reverse cases - K.F. - damage to parietal lobe - poor STM but functioning LTM.
+
+    The hippocampus is involved in maintaining novel information in memory during short delays. - Charan Ranganath & Mark D’Esposito, 2001.
+
+9. Mental time travel — the experience of traveling back in time to reconnect with events that happened in the past
+10. Episodic Memory - invovles mental time travel - self-knowing or remembering.
+
+Semantic Memory - knowing that doesnot invovle mental time travel - facts.
+    Personal semantic memories - they are facts associated with personal experiences (Renoult et al., 2012).
+
+    K.C. got damage to hippocampus and surrounding structures he lost episodic mem, but not semantic mem. - Rosenbaum,2005.
+    Italian woman - encephalitis - lost semantic memory
+
+    Our knowledge (semantic memory) guides our experience, and this, in turn, influences the episodic memories that follow from that experience. 
+
+Autobiographical memory — memory for specific experiences from our life, which can include both episodic and semantic((Cabeza & St. Jacques, 2007)- only for semantic not episodic) components.
+    (1) it is multidimensional, and 
+    (2) we remember some events in our lives better than others.
+
+    EX for multidimension : - Cabeza
+    photos of an event taken by us and lab
+        brain scans showed that own-photos and lab-photos activated many of the same structures in the brain—mainly ones like the medial temporal lobe (MTL) that are associated with episodic memory, as well as an area in the parietal cortex that is involved in processing scenes.
+
+        and own-photos caused more activation in prefrontal cortex(info about self) and hippocampus(mental time travel)
+    
+    autobiographical memories can - *elicit emotions*, which activates another area of the brain called the *amygdala*.
+
+    Events that become significant parts of a person’s life tend to be remembered well. - Pillemer, 1998
+
+    Transition points in people’s lives appear to be particularly memorable.
+
+    Memory is better for recent events and for events occurring between the ages of about 10 and 30 (Conway, 1996).
+        Reminiscence bump - The enhanced memory for adolescence and young adulthood found in people over 40.
+            a. self-image hypothesis - memory is enhanced for events that occur as a person’s self-image or life identity is being formed. - Clare Rathbone and co., 2008.
+            b. Cognitive hypothesis - periods of rapid change that are followed by stability cause stronger encoding of memories
+                it implies the bump may shift when a stable period doesn't follow early adulthood. - Schrauf and Rubin
+                    EX: people who migrated at 34 -35 age.
+
+            c. cultural life script hypothesis - distinguishes between a person’s life story and a *cultrural life script* - culturally expected events that occur at a particular time in the life span
+                Dorthe Berntsen and David Rubin (2004) found that most commonly mentioned important events occured during reminiscence bump.
+
+
+11. Procedural memory - also called skill memory because it is memory for doing things that usually involve learned skills.
+EX: 
+    Clive Wearing lost ability to form LTM but still could play Piano
+    H.M. practiced mirror drawing after loss of hippocampus he thinks he is learning from start but gets proficient without knowing  
+12. Priming - occurs when the presentation of one stimulus (the priming stimulus) changes the way a person responds to another stimulus (the test stimulus).
+EX: 
+    people gave higher rating to ads they had been exposed to before than the ones never seen. but were not able to completely tell that they had seen it before impling implicit.
+13. Classical conditioning - occurs when the following two stimuli are paired:
+    (1) a neutral stimulus that initially does not result in a response and
+    (2) a conditioning stimulus that does result in a response.
+
+    An example of classical conditioning from the laboratory is presenting a tone to a person followed by a puff of air to the eye that causes the person to blink. The tone initially does not cause an eyeblink, but after a number of pairings with the puff of air, the person blinks in response to the tone.
+
+    An example of classical conditioning causing implicit memory is provided by a situation we described earlier, in which you meet someone who seems familiar but you can’t remember how you know him or her. Have you ever had this experience and also felt positively or negatively about the person, without knowing why? If so, your emotional reaction was an example of implicit memory.
+
+14. one of the ways to get info into LTM is rehearsal :
+    Maintenance rehearsal - If you do this without any consideration of meaning or making connections with other information - results in poor memory
+
+    Elaborative rehearsal - instead of mindlessly repeating the phone number, you find a way to relate it to something meaningful - better than Maintenance rehearsal
+15. Levels of processing theory - memory depends on the depth of processing that an item receives (Craik and Lockhart, 1972).
+    Shallow processing - involves little attention to meaning
+    Deep processing - involves close attention, focusing on an item’s meaning and relating it to something else.
+    deep processing results in better mem.
+16. Visual imagery can enhance memory - Bower & Winzenz, 1970
+    
+    Paired-associate learning - in which a list of word pairs is presented. Later, the first word of each pair is presented, and the subject’s task is to remember the word it was paired with.
+17. self-reference effect - Memory is better if you are asked to relate a word to yourself.
+18. effect : szie < rhyme < meaning < self-reference < survival
+19. generation effect - Generating material yourself, rather than passively receiving it, enhances learning and retention - Norman Slameka and Peter Graf (1978)
+20. retrieval cue — a word or other stimulus that helps a person remember information stored in memory.
+    subjects spontaneously organize items as they recall them (Jenkins & Russell, 1952)
+    retrieval cues aid memory.
+    free recall - simply asked to recall stimuli
+    cued recall - presented with retrieval cues to aid in recall of previously experienced stimuli.
+    free recall < cued recall.
+
+21. organizational tree - Gordon Bower and coworkers (1969) - if provided correctly in a organized manner better mem .
+but if the organization is wrong but organized representing, worse mem.
+22. when provided mental framework that helps the reader link one sentence to the next to create a meaningful story. - easier to remember - Bransford and Johnson’s (1972)
+23. linking to survival creaed better memory than all the prev methods. - Nairne and coworkers (2007, 2008)
+24. Testing effect - testing yourself is better than rereading. at longer time intervals - Roediger & Karpicke, 2006
+25. Encoding specificity - states that we encode information along with its context.
+    i.e., Matching conditions of encoding and retrieval help better retrieval. whether it is the place or mood or surroundingeffects or situation.
+    state-dependent learning - memory will be better when a person’s internal state (mood or awareness) during retrieval matches his or her internal state during encoding.
+
+26. Consolidation: the process that transforms new memories from a fragile state, in which they can be disrupted, to a more permanent state, in which they are resistant to disruption. - Müller and Pilzecker
+    learning by giving delays between 2 lists of data enhanced amount of data remembered as no delay interrupts the forming/Consolidation of first list.
+
+27. Synaptic consolidation: experience causes changes at the synapse
+    Activity at the synapse causes a sequence of chemical reactions, which result in the synthesis of new proteins that cause structural changes at the synapse. 
+    one of the outcomes is strengthening of synaptic transmission
+    Long term Potentiation - enhanced firing of neurons after repeated stimulation.
+
+    Standard model of consolidation - proposes that incoming information activates a number of areas in the cortex.
+    i.e., it is ditributed across the cortex as it involves many areas EX: sensory and cognitive , etc.
+    
+    Reactivation - a process in which the hippocampus replays the neural activity associated with a memory. - major mechanism of consolidation.
+
+    During reactivation, activity occurs in the network connecting the hippocampus and the cortex, and this activity helps form direct connections between the various cortical areas
+    hippocampus acts like a “glue” that binds together the representations of memory from different cortical areas.
+
+    Anterograde amnesia - inabilty to form new memories.
+    Retrograde amnesia - inabilty to remember info from past.
+        it is more severe for events closer to the injury.
+
+    multiple trace model of consolida$on, the hippocampus is involved in retrieval of episodic memories, even if they originated long ago (Nadel & Moskovitch, 1997). - idea from Asaf Gilboa and co. (2004)
+
+    hippocampus was activated during retrieval of both recent and remote episodic memories
+
+    sleep enhances consolidation - Steffan Gais and coworkers (2006)
+        sleeping within 3hrs of studying is ideal being awake increases amount of info forgotten.
+        consolidation appears to be enhanced during sleep.
+        sleep eliminates environmental stimuli that might interfere with consolidation.
+
+        even with sleep memories that are more important are more likely to be strengthened by consolidation.
+
+28. retrieving a memory can cause that memory to become fragile, just as it was when it was first formed.
+
+    when something changes about the things we know EX: the route to a place due to shifting, etc  we update the information - Bailey & Balsam, 2013
+    as our memory is limited we need to modify and not store extra info.
+    
+    Reconsolidation - when a memory is retrieved, it becomes fragile, as it was when it was originally formed, and that when it is in this fragile state, it needs to be consolidated again.
+
+    i.e., if u don't Reconsolidate there is a chance u will loose the recalled memories.
+
+    Anisomycin(for rats) - an antibiotic that inhibits protein synthesis and so prevents changes at the synapse that are responsible for the formation of new memories. used in Nader's experiment with the rat.
+
+    Propranolol(for humans) - This drug blocks activation of stress hormone receptors in the amygdala, a part of the brain important for determining the emotional components of memory.
+
+    Almut Hupbach and coworkers (2007) provided evidence for the effect of reactivation in humans
+
+    we can use this to help - posttraumatic stress disorder (PTSD) . - Alain Brunet and coworkers (2008)
+
+29. most popular methods of studying:
+        highlighting material - Bell & Limber, 2010
+        rereading text - Carrier, 2003
+    however they found thes to be not evry effective - Dunlosky, 2013.
+
+    elaboration—thinking about what you are reading and giving it meaning by relating it to other things that you know
+
+    elaboration, techniques based on association ( linking things together by forming images , etc)  help a lot better.
+
+    self-testing accomplishes two things. It indicates what you know and increases your ability to remember what you know late
+
+    Kornell & Son, 2009 - people believed reviewing is better than testing themselves
+
+    Frase,1975 - students who read a text with the idea of making up questions did as well on an exam as students who read a text with the idea of answering questions later, and both groups did better than a group of students who did not create or answer questions
+
+    Organization like grouping helps reduce the load on your memory
+
+    Spacing effect - taking breaks while studying helps i.e., break it into short sessions.
+
+    memory performance is enhanced if sleep follows learning.
+
+30. Illusions of learning :
+    fluency - rereading
+    familiarity effect
+    highlighting may become automatic unconsious process therefore not helping. - Sarah Peterson (1992)
+
+31. practice testing and distributed practice (taking breaks) are the two most effective study techniques - Dunlosky
+
+32. Many believed memory works like video camera and doesnot change once a memory is formed of an event - Simons & Chabris, 2011
+33. Memories associated with emotions are more remembered.
+        *amygdala* activity was higher for the emotional words(found due to patient B.P.'s injury to amygdala - Cahill,1995).
+
+        stress hormones released after an emotional experience increase consolidation of memory for that experience (McGaugh, 1983; Roozendaal & McGaugh, 2011)
+        Larry Cahill and coworkers (2003) carried out an experiment that demonstrated this effect in humans. ( *cortisol* is the hormone released)
+
+        ***cortisol enhances memory for emotional pictures but not neutral pictures 
+        hormone activation that occurs after arousing emotional experiences enhances memory consolidation in humans (also see Phelps & Sharot, 2008). this can be linked to activity in amygdala(Ritchey,2008)
+34. Emotions can impair memory
+    emotions can cause a focusing of attention on objects that are particularly important, drawing attention away from other objects and so decreasing memory for those objects (Mather & Sutherland, 2011).
+        EX: 
+        Weapons focus - the tendency to focus attention on a weapon during the commission of a crime, which is typically a high-emotion situation. - Stanny & Johnson, 2000
+
+    Emotions cause:
+        increase in *Subjective sense of remembering* — the vividness of the memory, confidence that it is accurate, and the sense of reliving an event
+        decrease in mem for details of the scene.
+         - Phelps and Sharot,2008
+35. Flashbulb memory - refer to a person’s memory for the circumstances surrounding shocking, highly charged events. It is important to emphasize that the term flashbulb memory refers to memory for the circumstances surrounding how a person heard about an event, not memory for the event itself.
+    Brown and Kulik said these memories are like photographs that resist fading
+    which is obviously proven wrong later by - Neisser and Harsch,1992 - it was about sapcecraft Cahllenger
+    Repeated Recall - The technique of comparing later memories to memories collected immediately after the event
+    flashbulb memories are special appears to be based at least partly on the fact that people think the memories are stronger and more accurate ( i.e., their belief that whatb they remembered is accurate)
+
+    Rehearsal and media coverage can effect Flashbulb mem. - Ulric Neisser,1996
+    Narrative rehearsal hypothesis - we rehearse these events after they occur.
+    effect of media coverage is shown by James Ost,2002
+
+36. When people report memories for past events, they may not only omit things but also distort or change things that happened, and in some cases even report things that never happened at all.
+
+37. Source monitoring - is the process of determining the origins of our memories, knowledge, or beliefs (Johnson et al., 1993).
+    Source monitoring error/source misattributions — misidentifying the source of a memory
+        sense of familiarity can lead to source monitoring errors
+        source monitoring task can be influenced by gender stereotypes. - Marsh and co.,2006
+38. Pragmatic inference - which occurs when reading a sentence leads a person to expect something that is not explicitly stated or implied by the sentence - (Brewer, 1977) later also researched by Chan & McDermo8, 2006
+    it is due to knowledge gained thru experience
+
+39. Schema - is a person’s knowledge about some aspect of the environment.
+    the informa1on in schemas can provide a guide for making inferences about what we remember. may also lead to rememberingwrong or extra - experiment by Brewer and Treyens,1981.
+40. Script - is our conception of the sequence of actions that usually occurs during a particular experience.
+41. False Recall and recognition - effect simialr to schemas but with list of words etc. not environment
+42. Misinformation effect - in which a person’s memory for an event is modified by things that happen after the event has occurred.
+    this info is reffered to as *misleading postevent information*, or MPI.
+
+    suggestion can create false memories for long ago events that never actually happened (Loftus, 1993b).
+43. eyewitness testimony — testimony by a person who was present at the crime about what he or she saw during commission of the crime
+    it is assumed that:
+        (1) the eyewitness was able to clearly see what happened; and 
+        (2) the eyewitness was able to remember his or her observations and translate them into an accurate description of what happened and an accurate identification of the perpetrator(s).
+
+    subject picked someone they thought was the gunman, even though his picture was not included in the photo spread (Wells & Bradfield, 1998). similar experiment by Kneller.
+    Weapon focus also effects the recall of the memories during an incident
+    There is also Source monitoring error.(Misidentification due to familiarity)
+    Error due to suggestion - Gary Wells and Amy Bradfield (1998) 
+        Postidentification feedback effect - increase in confidence due to confirming feedback after making an identification
+44. lineup Procedures to help:
+    a. Telling subjects that the perpetrator may not be present in a lineup caused a 42 percent decrease in false identifications of innocent people (Malpass & Devine, 1981).
+    b. When the perpetrator was in the lineup, increasing similarity did decrease identification of the perpetrator, from 0.71 to 0.58. But when the perpetrator was not in the lineup, increasing similarity caused a large decrease in incorrect identification of an innocent person, from 0.70 to 0.31 (R. C. L. Lindsay and Gary Wells ,1980)
+        increasing similarity does result in missed identification of some guilty suspects, but substantially reduces the erroneous identification of innocent people, especially when the perpetrator is not in the lineup
+    c. Using Sequential lineups - the witness compares each person not to the other people, but to the memory of what the witness saw.- 43 to 17% Misidentification - Lindsay and Wells (1985)
+    d. person administering the lineup should *not* know who the suspect is. In addi(on, having witnesses immediately rate their confidence in their choice eliminates the possibility that the post-event feedback effect could increase their confidence.
+45. Cognitive Interview - based on what is known about memory retrieval. 
+    Decreases likelihood of any suggestive inputs. thye also help recreate the situation for better remembering (emotions , etc.)
+    but it takes longer than normal

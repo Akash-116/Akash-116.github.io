@@ -1,0 +1,226 @@
+L10:
+
+Till now, we've seen localization of brain functions.
+Now, lets see the distributiveness
+
+
+Each thing, a face, a rolling ball, has multiple reactoins inside brain.
+
+> gaze of eyes of face, reaction on face, beautyful ness
+> dpeth, color, shape of ball, speed.
+
+Amygdala in temporal lobe of brain. Part of pain matrix.
+
+
+Perception: (we are learning all behaviours of brain, one by one)
+
+Perception - the experiences resulting from stimulation of the senses.
+
+ >>> PERCEPTION is the GATEWAY  to all other cognition.
+
+Properties:-
+
+	> Perceptions can change based on added information. (like how the terrace roof was understood after, when shown completely.)
+	> Perception can be based on a perceptual rule, or past experiecnes.
+	> Perception occurs conjuction with action. MEH
+
+
+L11:
+
+Designing a perceiving machine is difficult:
+
+Inverse projection problem
+-	Objects make reverse impression on retina.
+- 	Infinite objects can have the same projection. We can't 'see' depth.
+
+Hidden or blurred objects
+
+Viewpoint invariance : being able to decipher the same object from different viewpoints
+
+
+Bottom up processing and top down processing:
+PERCEPTION involves both 
+> Bottom up means, from eyes to brain (current experiecns)
+> Top down means from brain to eyes or hand (previous experieeneces, attention, expectations)
+
+Humans advantage over computers is additional knowledge avaliable to humans via top-down processing
+
+
+L12:
+
+Hearing words in sentence also both top-down(minds already knows the language) and bottom-up (listening to words)
+
+Experience of Pain:
+If we distract persons attention, then pain lessens, indicating a top-down processing for pain from the mind.
+
+
+
+Helmholtz likelihood principle:
+	> Our knowledge enables us to determine what causes the pattern on our retinea
+	> Process of unconscious inference
+
+
+
+-> Gestalt Psychology - Max Wertheimer
+	> gestalt not name of person. It means "put together".
+	> Brain perception is more than sum of stimulii received.
+	> Number of principles of perception organization.
+
+		> Figure-ground relationship : perception dependss on what we percieve as figure and what as ground.
+
+		> Apparent movement : our perception system asdds smoethign in the middle.
+
+		> Principle of similarity : Similar things appear to be grouped.
+
+		****> (olympic rings) Principle of pragnanz : princilpe of simplicity
+			> we will percieve circles as circles and not broken figs.
+
+		> Principle of proximity :  Nearer things appear to be grouped.
+		> Principle of continuity : Smooth curves
+		> Principle of closure : We close up broken circles or lines.
+			Our perception is a complete object, rather than series of partial objects.
+
+	> But where do these principles come from? Gestalt's say these are built in, and experiences play almost minor role in perception.
+		> Gestalts acknowledge that experience affects but in a minor way. Lol. Lamesies.
+		> Contradiction to helmholtz likelihood principle.
+
+
+Regularities in environment :
+
+	> Physical regularities
+		> horizontal and verticle manmade structurews and also natural trees
+
+	> Semantic Regularites:
+		> activities assicoaites witha situation, pouring oil while cooking, checking at the airprt, etc.
+
+	Scene Schema, typical knowledge of what a scene contains.
+
+Baysian inference:
+
+	> Two factors, 
+		prior probability : initial belief
+		avaliable evidence : likelihood
+
+	Multiply both
+
+
+
+L13:
+
+
+Experience can shape the neurons.
+> Our eyes have more receptors for horizontal and veritcal things.
+
+Experience dependent plasticity
+
+----------------------------------
+Perception and action:
+
+> Occipetal lobe : recieves vision input
+> Temporal Lobe : What pathway
+> Parietal Lobe : Where\How pathway
+
+Close connection between perceiving objects and interacting with them.
+What pathway and Where pathway exist seperately.
+
+Women cant keep mail in static slot _ what pathway gone
+Women can keep mail in rotation slot - where pathway working!
+
+Perception -> What Pathway
+Action -> Where/How Pathway
+
+-------------------------------------
+Percetion and Emotion:
+
+	Broaden-and-Build Thoery of positive emotions :-
+
+	Positive emotions  -> Broaden the scope of attention. Distributed Attention. Can think a lot of things.
+
+	Negative Emotions  -> Narrows the scope of attention. Focussed attention
+
+	Also reverse holds. Rashmi mam's experiment.
+
+	Global Processing:
+		> Easily register the happy emotional distractor.
+		> Not much sensitive to negative emotional distractor.
+		> (finally after these 6,9,8 thing, when participants were asked with a bunch of faces, if this emotinal DISTRACTOR was given before, if participant answered correctly, then more sensitive to distractors)
+
+	Local processing,:
+		> participant not much sensitive to positive emotions
+		> more sensitive to negative emotion
+
+	Hence, local attention sensitive to negative emotions, 
+		global attention sensitive to positive emotions.
+
+
+L14:
+
+Social Perception : understanding others.
+
+Difference between lies and truthful statements:
+	
+	Deceptive communication has
+		> Less 1st person pronouns (I, me)
+		> More negative emotion words, eg. "Except", "but"
+		> More motion verbs Eg. go walk
+
+		> Lies are less complex, less related to self, more negative in nature.
+
+
+
+
+
+L15:
+
+Attribution:
+	understanding the cause of other's behaviours
+
+not only HOW, but WHY. 
+
+Theories of attribution
+
+Jones & Davis:
+	Correspondent Inferences := We conclude other's traits, based on their behaviour. when
+		> That behaviour is freely chosen. (Not the behaviour under external factor)
+		> Yeilds distinctive, non-common effects (Not the fact ur friend loves his wife )
+		> Low in social desirability. Being show-off rather than quite individual.(the distinct behaviours, over the common ones)
+
+
+Kelley's theory of causal attributions
+
+	There could be N reasons for a particular action. (a friend bailing on you, your date being late, not getting a prmotion)
+
+	> To make the task of attribution managable, we begin with a small question : 
+		Did other's behaviour stem from 
+			internal causes - our own nature, intentions
+			OR
+			external causes - some social/physical aspect
+
+We focus on three main informations:
+
+1. Consensus : the extent to which other people react to a given stimulii in the same manner as the person in question.
+
+2. Consistency : the extent to which the person in question reacts to the same stimulii in same way, over another occasion.
+
+3. Distinctiveness : The exxtent to which the person reacts in the same way, with other stimulii.
+
+** see the consensus of the response, consistency and distinctiveness of the person in question.
+
+
+Slide 97, 98. L10-17
+
+
+even more biases:
+
+	The actor-observer effect: "you fell; I was pushed"
+		our behaviour mainly to external factors, Others behaviour mainly to internal factors.
+
+	The self-serving Bias: "I'm good; you are lucky"
+		attribute personal outcomes to internal causes
+
+Almost the complete lecture on how you(Akash!) already percieve the world to be. flawed... cliche... self-centered... 
+
+But nice lecture...
+
+
+
