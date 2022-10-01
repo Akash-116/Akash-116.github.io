@@ -1,0 +1,19 @@
+.dont-ignore-entry {
+    background-color: rgb(199, 244, 200) !important;
+}
+
+
+.ignore-entry {
+    background-color: rgb(240, 176, 165) !important;
+}
+
+
+.ignore-entry-invisible {
+    display: none !important;
+}
+
+.toggle-archived-display {
+    /* background-color: blue; */
+}
+
+.btn-archive-company {}
