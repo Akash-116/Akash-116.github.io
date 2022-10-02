@@ -132,12 +132,12 @@ p {
 
 iframe {
     min-height: 0 !important;
-    height: 700px !important;
+    /* height: 700px !important; */
 }
 
 #contactForm {
-    padding-bottom: 0;
-    margin-bottom: 0;
+    padding-bottom: 15px;
+    /* margin-bottom: 0; */
     box-shadow: yellow;
 }
 

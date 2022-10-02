@@ -28,11 +28,11 @@
 </head>
 
 <body>
+
     <!-- Back to top button -->
     <button type="button" class="btn btn-danger btn-floating btn-lg" id="btn-back-to-top">
         <i class="fas fa-arrow-up "></i>
     </button>
-
 
     <!-- Navbar -->
     <nav class="navbar  navbar-default sticky-top" style="margin-bottom: 0;">
@@ -47,31 +47,12 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
-                    <!-- <li><a href="./files/Akash_2_page_resume.pdf">
-                            <img src=" ./pics/cv.png" alt="cv.png" width="30px" style="display: inline-block;">
-                        </a>
-                    </li> -->
-                    <li>
-                        <!-- <div class="dropdown">
-                            <button class="dropdown-toggle" type="button" data-toggle="dropdown">Resume
-                                <span class="caret"></span></button>
-                            <ul class="dropdown-menu">
-                                <li><a href="./files/software-page-2.pdf">2 Page</a></li>
-                                <li><a href="./files/software-page-1.pdf">1 Page</a></li>
-                            </ul>
-                        </div> -->
-                        <a href="./files/software-page-2.pdf" target="_blank"> CV2 </a>
-                    </li>
-                    <li><a href="./files/software-page-1.pdf" target="_blank"> CV1 </a></li>
+                    <li> <a href="./files/software-page-2.pdf" target="_blank"> CV </a></li>
+                    <!-- <li><a href="./files/software-page-1.pdf" target="_blank"> CV1 </a></li> -->
                     <li><a href="#whatAmI">Interests</a></li>
                     <li><a href="./notes/">Notes</a></li>
                     <li><a href="#contactForm">ContactMe</a></li>
-                    <li><a href="https://forms.gle/76bgRo9Cz7ktW7Cr8" target="_blank"><i class="fa fa-2x fa-wpforms"
-                                aria-hidden="true"></i>
-                        </a></li>
                 </ul>
-
-                <!-- <a href="./files/software-page-2.pdf" target="_blank"> CV </a> -->
             </div>
         </div>
     </nav>
@@ -82,12 +63,8 @@
 
         <!-- <div class="row text-center"> -->
         <div class="col-sm-6">
-            <!-- <img src="./pics/me.jpg" class="img-responsive own-img-rounded margin" style="display:inline"
-                alt="Akash Reddy Gillella" width="250" height="350"> -->
-
             <!-- Trying to add spotlight image viewer -->
             <div class="spotlight-group">
-
                 <a class="spotlight" href="./pics/me2.jpg" data-fullscreen="true" data-play="true" data-download="true"
                     data-autofit="false" data-infinite="true">
                     <!-- <img src="./pics/me.jpg"> -->
@@ -124,7 +101,6 @@
             </p>
         </div>
         <!-- </div> -->
-
     </div>
 
     <!-- Second Container -->
@@ -187,36 +163,28 @@
                     )</p>
                 <a target="_blank" href="https://t.me/akash_gillella"
                     class="fab fa-telegram-plane big-social-icons"></a>
-                <!-- <a target="_blank" href="http://wa.me/918192939999" class="fab fa-whatsapp big-social-icons" ></a> -->
 
             </div>
         </div>
     </div>
 
 
-    <!-- Embedded Google Form -->
-    <!-- <iframe
-        src="https://docs.google.com/forms/d/e/1FAIpQLSfNNTGwiv7OOmmYS_q-SVd7zA4jSgrbLmgfsoJ-O__NzopKHA/viewform?embedded=true"
-        width="640" height="543" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
-
-    <!-- Created using formfacade extension -->
     <div class="container-fluid bg-5 text-center" id="contactForm">
-        <h3 class="margin">Contact me? </h3>
 
-        <!-- Code-1 of jotforms -->
+        <!-- CodeKind-1 of jotforms -->
         <!-- <script type="text/javascript" src="https://form.jotform.com/jsform/222737117815457"></script> -->
-        <script type="text/javascript" src="https://form.jotform.com/jsform/222738057451457"></script>
+        <!-- <script type="text/javascript" src="https://form.jotform.com/jsform/222738057451457"></script> -->
 
-        <!-- Code-2 of jotforms -->
-        <!-- <iframe id="JotFormIFrame-222737117815457" title="Akash Reddy - Contact Me" allowtransparency="true"
+        <!-- CodeKind-2 of jotform -->
+        <iframe id="JotFormIFrame-222738057451457" title="akash-116.github.io - ContactMe" allowtransparency="true"
             allowfullscreen="true" allow="geolocation; microphone; camera"
-            src="https://form.jotform.com/222737117815457" frameborder="0" style="
-    min-width: 100%;
-    height:539px;
-    border:none;" scrolling="no">
+            src="https://form.jotform.com/222738057451457" frameborder="0"
+            style=" min-width: 100%;   height:539px;    border:none;" scrolling="no">
         </iframe>
+
+        <!-- Supporting JS code -->
         <script type="text/javascript">
-            var ifr = document.getElementById("JotFormIFrame-222737117815457");
+            var ifr = document.getElementById("JotFormIFrame-222738057451457");
             if (ifr) {
                 var src = ifr.src;
                 var iframeParams = [];
@@ -274,7 +242,6 @@
                     var urls = { "docurl": encodeURIComponent(document.URL), "referrer": encodeURIComponent(document.referrer) };
                     iframe.contentWindow.postMessage(JSON.stringify({ "type": "urls", "value": urls }), "*");
                 }
-
             };
             window.isPermitted = function (originUrl, whitelisted_domains) {
                 var url = document.createElement('a');
@@ -295,19 +262,16 @@
             } else if (window.attachEvent) {
                 window.attachEvent("onmessage", handleIFrameMessage);
             }
-        </script> -->
+        </script>
 
-        <!-- <div class="coverBranding">
-
+        <!-- <div class="coverBranding"> to overlap and hide the branding
         </div> -->
-
-
     </div>
 
     <!-- Footer -->
     <footer class="container-fluid p-2 bg-4 text-center">
 
-        <p>This webpage is still under development. Contact me on above mailId if need be.</p>
+        <p>This webpage is maintained by Akash Reddy G <br>Contact me on above handles if need be</p>
         <p><i class="fas fa-copyright"></i> All rights reversed.</p>
 
         <!-- hitwebcounter Code START -->
