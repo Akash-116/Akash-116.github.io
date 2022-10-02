@@ -98,14 +98,14 @@ p {
         10px 10px rgba(0, 98, 90, 0.05);
 }
 
-/* .fab{
-    border-radius: 20px;
-    box-shadow: 2px 2px rgba(0, 98, 90, 0.4),
-              4px 4px rgba(0, 98, 90, 0.3),
-              6px 6px rgba(0, 98, 90, 0.2),
-              8px 8px rgba(0, 98, 90, 0.1),
-              10px 10px rgba(0, 98, 90, 0.05);
-} */
+.fab {
+    color: #1abc9c;
+}
+
+.colorMintGreen {
+    color: #1abc9c;
+    text-decoration: underline;
+}
 
 #contactForm .ff-title {
     display: none;
@@ -144,4 +144,14 @@ iframe {
 #contactForm>h3 {
     margin-bottom: 0;
     padding-bottom: 0;
+}
+
+footer {
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+}
+
+#contactForm {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
