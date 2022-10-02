@@ -129,3 +129,19 @@ p {
     position: relative;
     top: -5em;
 }
+
+iframe {
+    min-height: 0 !important;
+    height: 700px !important;
+}
+
+#contactForm {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    box-shadow: yellow;
+}
+
+#contactForm>h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
