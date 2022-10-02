@@ -120,3 +120,12 @@ p {
     background-color: #2f2f2f;
 
 }
+
+.coverBranding {
+    /* border: 2px solid black; */
+    min-height: 5em;
+    background-color: RGB(247, 202, 201);
+    /* background-color: green; */
+    position: relative;
+    top: -5em;
+}
