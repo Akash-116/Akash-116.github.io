@@ -1,6 +1,9 @@
 
 
 
+const JAFsURL = "https://campus.placements.iitb.ac.in/applicant/jobs"
+
+var lastURL = "";
 
 
 var allCompanyElements;
@@ -361,13 +364,32 @@ function setMatBtns() {
 }
 
 
+function FinalInit() {
+
+    new MutationObserver(() => {
+        const url = location.href;
+        if((url !== lastURL)){
+            if((lastURL === JAFsURL ) && (url !== JAFsURL) ){
+                // reload window
+                location.reload();
+            }else if((lastURL !== JAFsURL) && (url === JAFsURL)){
+                // Enable jafs
+                setMatBtns();
+            }
+
+            lastURL = url;
+        }
+      }).observe(document, {subtree: true, childList: true});
+
+}
+
+
 if (document.readyState !== 'loading') {
     console.log('document is already ready, just execute code here');
-    setMatBtns();
+    FinalInit();
 } else {
     document.addEventListener('DOMContentLoaded', function () {
         console.log('document was not ready, place code here');
-        setMatBtns();
+        FinalInit();
     });
 }
-
